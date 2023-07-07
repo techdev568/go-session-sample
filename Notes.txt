@@ -1,0 +1,110 @@
+Control statements 
+-----------------
+
+
+stat1 
+stat2
+
+---------------------
+
+if
+switch
+for 
+
+if
+
+-> if 
+-> if else
+-> else if
+-> Nested if 
+
+------------------
+
+Arrays
+ -> array declaration
+ -> Intialize(Not init, partial, fully)
+ -> Arrays
+ -> len
+-> for 
+
+ -> Two dimentional array
+
+Slice 
+
+Three Slice 
+-> length
+-> capacity
+
+----------------------
+slice -> append
+maps
+-> delcare how to use
+var and := oper
+make 
+apeend maps
+add and update the data
+get the maps
+delete()
+-> map refrece 
+
+Funtions 
+what, declaraton, return , multipl
+
+------------------
+->append in slice
+-> veriadic
+-> recurssion
+-> Closure
+-> panic
+-> defer
+
+
+Pointers:
+declaration
+what pointer,
+*, & operators
+
+structs
+methods
+iota
+enum
+
+Infaces
+declaration
+sample
+
+Concurency:
+1) goroutines
+2) chanels
+
+i) Buffered channel 
+ii) UnBuffered channel
+
+select statement -> act as a channel receiver 
+weightGroups
+
+Testcase:
+--------
+
+Packages:
+1) Default packages like fmt, errors
+2) Ho packages will organized
+3) How to write customised package 
+
+1) strings
+2) math
+3) flag
+
+
+Keyword:
+
+goto 
+
+Rest API
+
+-------------
+
+Data INITIALIZED 
+
+ADDED Data
+PASSED 
